@@ -2,3 +2,7 @@ Hello
 Argin
 
 g++ -shared -fpic -o libtmp.so tmp.cpp
+
+/usr/local/zookeeper-3.4.10/bin/zkCli.sh -server 10.135.96.164
+
+https://www.cnblogs.com/wesly186/p/8bc43fe76a3092c0d247c4eae04da691.html
